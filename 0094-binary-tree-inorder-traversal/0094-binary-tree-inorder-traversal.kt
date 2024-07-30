@@ -11,7 +11,7 @@
 class Solution {
     fun inorderTraversal(root: TreeNode?): List<Int> {
         val result = mutableListOf<Int>()
-        val stack = mutableListOf<TreeNode>()
+        val stack = Stack<TreeNode>()
         var current = root
 
         while (current != null || stack.isNotEmpty()) {
@@ -20,9 +20,10 @@ class Solution {
                 current = current.left
             }
 
-            current = stack.removeAt(stack.size - 1)
-            result.add(current.`val`)
-            current = current.right
+            current = stack.pop()
+        result.add(current.`val`)
+    
+        current = current.right
         }
 
         return result
