@@ -25,4 +25,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/agpprastyo/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/agpprastyo/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
