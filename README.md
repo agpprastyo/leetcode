@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/agpprastyo/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/agpprastyo/leetcode/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/agpprastyo/leetcode/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/agpprastyo/leetcode/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/agpprastyo/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
