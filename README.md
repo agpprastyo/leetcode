@@ -36,6 +36,7 @@
 | [0007-reverse-integer](https://github.com/agpprastyo/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/agpprastyo/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/agpprastyo/leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/agpprastyo/leetcode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/agpprastyo/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/agpprastyo/leetcode/tree/master/0069-sqrtx) |
 ## Linked List
 |  |
 | ------- |
